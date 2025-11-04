@@ -17,3 +17,10 @@ The LED animations are controlled by 4 switches, although it is 5 in the simulat
 |  0  |  1  | Alternating sequence of colors R ↔ B ↔ Y |
 |  1  |  0  | CW rotation of B & Y LEDs, CCW rotation of R LEDs |
 |  1  |  1  | CW loop d' loop pattern |
+
+# ANIMATIONS
+## BLINKING
+
+## ALTERNATING SEQUENCE
+## CW AND CCW ROTATION
+## LOOP D' LOOP
