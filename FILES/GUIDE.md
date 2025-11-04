@@ -20,8 +20,12 @@ The LED animations are controlled by 4 switches, although it is 5 in the simulat
 
 # ANIMATIONS
 ## BLINKING
-
-
+https://github.com/user-attachments/assets/cf48aa33-4878-42da-bd2e-4312b5a47e0b
 ## ALTERNATING SEQUENCE
+https://github.com/user-attachments/assets/c258d202-1655-482c-be4b-5ac82ae576eb
 ## CW AND CCW ROTATION
+https://github.com/user-attachments/assets/b89e0ee8-f317-4ceb-917b-3d47f742d003
 ## LOOP D' LOOP
+https://github.com/user-attachments/assets/a89c0079-2270-4518-8ea5-912c9adf2e58
+
+
