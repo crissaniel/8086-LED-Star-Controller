@@ -1,5 +1,5 @@
 # 8086-LED-Star-Controller
-A simulation of LEDs arranged in a star-like symbol that allows the user to select 1 of 4 LED animations run by an 8086 interfaced by two 8255A PPI chips; all virtually simulated under Proteus 8.11.
+A simulation of LEDs arranged in a star-like symbol that allows the user to select 1 of 4 LED animations run by an 8086 interfaced by two 8255A PPI chips; all virtually simulated under Proteus 8.11. P.S heavily hard coded xD
 ## LED Layout
 <p align="center">
   <img width="355" height="370" alt="image" src="https://github.com/user-attachments/assets/ee566ead-d9b7-490c-9b9f-d1a387238053"/>
